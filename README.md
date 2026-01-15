@@ -1,28 +1,26 @@
-# 📊 Business Intelligence Strategy - Corporación La Favorita
+# 📑 Business Intelligence Strategy - Caso de Estudio
 
 ## 📝 Descripción
-Este proyecto desarrolla una estrategia de Business Intelligence para mitigar el impacto de la crisis energética en el sector retail ecuatoriano. Se enfoca en el análisis del deterioro de productos perecederos de **Corporación La Favorita C.A.**, proponiendo un marco de métricas *data-driven* para asegurar la rentabilidad y la seguridad alimentaria.
+Este proyecto presenta un **marco estratégico y teórico** diseñado para mitigar el impacto de crisis externas (como apagones) en el sector retail. Se centra exclusivamente en el diseño de soluciones de Business Intelligence y la planificación de métricas para **Corporación La Favorita**, priorizando la resiliencia operativa y la toma de decisiones basada en información.
 
 ---
 
-## 🚀 Puntos Clave del Proyecto
-A través de una metodología integral, se definieron los siguientes pilares estratégicos:
+## 🚀 Alcance del Proyecto (Enfoque Estratégico)
+Este trabajo es un estudio de **planificación y diseño lógico**, sin implementación técnica de bases de datos:
 
-* **Gestión de Crisis Energética:** Análisis del impacto de los apagones en la cadena de frío para categorías de alta rotación y perecibilidad.
-* **Métricas Estratégicas (KPIs):** Diseño de indicadores clave como la **Tasa de Deterioro de Perecederos** (con meta <2%) y el **Costo de Reposición por Incumplimiento de Cadena de Frío**.
-* **Plan Analítico (Ask-Act):** Implementación de un proceso para normalizar datos de sensores IoT y sistemas POS, permitiendo una respuesta operativa rápida ante fallas eléctricas.
-* **Perspectiva Ética y Sostenibilidad:** Integración de principios de seguridad alimentaria y transparencia en el manejo de datos para fortalecer la confianza del consumidor.
-
----
-
-## 🛠️ Herramientas y Metodología
-* **Herramientas de BI:** Power BI / Excel para visualización de dashboards de riesgo.
-* **Procesamiento de Datos:** SQL para la extracción de datos transaccionales y Python para el análisis de tendencias.
-* **Metodología:** Marco de trabajo orientado a la alfabetización de datos (Data Literacy) y toma de decisiones basada en evidencia.
+* **Diseño de Métricas Críticas:** Definición teórica de KPIs estratégicos como la *Tasa de Deterioro de Perecederos* (meta <2%) y el cálculo de *Costos de Reposición* por fallas en la cadena de frío.
+* **Propuesta de Flujo de Datos:** Estructuración lógica para la captura de datos provenientes de sensores y sistemas de ventas, enfocada en generar alertas tempranas para la gerencia.
+* **Metodología de Acción (Ask-Act):** Desarrollo de un plan analítico para transformar la información teórica en respuestas operativas inmediatas ante la inestabilidad energética.
+* **Cultura de Datos (Data Literacy):** Propuesta para fortalecer la toma de decisiones basada en evidencia y ética dentro de la organización.
 
 ---
 
-## 📈 Impacto Esperado
-1. **Resiliencia Operativa:** Reducción de pérdidas económicas mediante el monitoreo en tiempo real de la temperatura en góndolas.
-2. **Optimización de Inventario:** Mejora en la rotación de productos vulnerables basándose en históricos de interrupción energética.
-3. **Seguridad Alimentaria:** Minimización de riesgos sanitarios para los clientes de Supermaxi, Megamaxi y Akí.
+## 🛠️ Conceptos y Metodologías Aplicadas
+* **Business Intelligence:** Diseño de dashboards conceptuales y flujo de información ejecutiva.
+* **Gestión de Riesgos:** Análisis de impacto financiero y operativo en productos perecederos.
+* **Ética de Datos:** Enfoque en la seguridad alimentaria y transparencia hacia el consumidor.
+
+---
+
+## 💡 Valor del Estudio
+El proyecto demuestra la capacidad de **diagnosticar problemas complejos y diseñar soluciones estructurales** de BI, estableciendo las bases teóricas necesarias para una futura implementación técnica en entornos de alta incertidumbre.
